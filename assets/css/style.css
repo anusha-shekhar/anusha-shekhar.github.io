@@ -41,7 +41,7 @@
   width: 50px;
   height: 50px;
   border: 0;
-  color: #3a64c7;
+  color: #FFFFFF;
   cursor: pointer;
   font-size: 30px;
   line-height: 70px;
@@ -64,7 +64,7 @@
 
 .icon-btn:hover {
   transform: scale(1.10);
-  color: #3a64c7;
+  color: #FFFFFF;
 }
 
 .linkedin:hover {
@@ -84,9 +84,9 @@
 .readme {
   position: relative;
   padding: 11px 35px;
-  background: #3a64c7;
-  color: #a8caff;
-  border: 2px solid #3a64c7;
+  background: #fff;
+  color: #00796b;
+  border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
   letter-spacing: 1px;
@@ -104,8 +104,8 @@
   position: relative;
   padding: 11px 35px;
   background: none;
-  color: #3a64c7;
-  border: 2px solid #3a64c7;
+  color: #fff;
+  border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
   letter-spacing: 1px;
@@ -116,15 +116,15 @@
 }
 
 .contactme:hover{
-  color: #a8caff;
-  background-color: 3a64c7;
+  color: #00796b;
+  background-color: white;
 }
 /* main body */
 
 /* body-color */
 
 body {
-  color: #fff;
+  color: #333;
   font-size: 18px;
 }
 
@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #a8caff;
+  color: #004d40;
 }
 
 /* main blockqoute */
@@ -237,7 +237,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: 3a64c7;
+  color: rgb(16, 202, 56);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -275,7 +275,7 @@ ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) 
 }
 
 ul.side-nav.fixed.table-of-contents li:not(.logo) a span, ul#slide-out li:not(.logo) a span {
-  color: #3a64c7 !important;
+  color: #333 !important;
 }
 
 li.logo span {
@@ -549,7 +549,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #3a64c7 !important;
+  color: #a8caff !important;
 }
 
 /* .teal-text {
@@ -602,7 +602,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #3a64c7;
+    color: #009688;
     height: 56px;
     line-height: 56px;
   }
