@@ -11,3 +11,4 @@ Information in all sections have been replaced with my personal information. Bel
 ![activity 2.2: example of replaced section](./images/2_2_example.png)
 
 The repo has been deployed using GitHub pages and can be visited at anusha-shekhar.github.io. Below is a screenshot showing the webpage.
+![activity 2.3: screenshot of webpage](./images/2_3_website.png)
