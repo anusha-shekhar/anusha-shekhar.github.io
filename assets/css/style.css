@@ -116,15 +116,15 @@
 }
 
 .contactme:hover{
-  color: #00796b;
-  background-color: white;
+  color: #87bef8;
+  background-color: black;
 }
 /* main body */
 
 /* body-color */
 
 body {
-  color: #333;
+  color: black;
   font-size: 18px;
 }
 
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: 87bef8 repeat;
   position: relative;
 }
 
@@ -549,7 +549,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #a8caff !important;
+  color: #87bef8 !important;
 }
 
 /* .teal-text {
