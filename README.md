@@ -14,6 +14,9 @@ The repo has been deployed using GitHub pages and can be visited at anusha-shekh
 ![activity 2.3: screenshot of webpage](./readme_images/2_3_website.png)
 
 ## Activity 3
-The green theme of the original website has been replaced by a pink theme of my choosing. Below is a screenshot of the repo.
+The green theme of the original website has been replaced by a pink theme of my choosing. Below is a screenshot of various parts of the repo where I have made the changes.
+![activity 3.1: example of replaced colour](./readme_images/3_1_color_example.png)
+![activity 3.2: example of replaced colour](./readme_images/3_2_color_example.png)
 
 Below is a screenshot of the homepage of the deployed website.
+![activity 3.3: screenshot of pink webpage](./readme_images/3_3_website_pink.png)
