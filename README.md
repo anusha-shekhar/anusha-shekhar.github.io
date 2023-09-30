@@ -26,3 +26,4 @@ A new section called "places travelled" has been created and added to the naviga
 ![activity 4: screenshot of map code](./readme_images/4_map_code.png)
 
 Below is a screenshot of the Places Travelled Section of the webpage.
+![activity 4: screenshot of map page](./readme_images/4_map_page.png)
