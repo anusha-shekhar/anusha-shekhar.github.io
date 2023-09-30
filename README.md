@@ -12,3 +12,8 @@ Information in all sections have been replaced with my personal information. Bel
 
 The repo has been deployed using GitHub pages and can be visited at anusha-shekhar.github.io. Below is a screenshot showing the webpage.
 ![activity 2.3: screenshot of webpage](./readme_images/2_3_website.png)
+
+## Activity 3
+The green theme of the original website has been replaced by a pink theme of my choosing. Below is a screenshot of the repo.
+
+Below is a screenshot of the homepage of the deployed website.
