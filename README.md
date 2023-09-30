@@ -10,13 +10,19 @@ Information in all sections have been replaced with my personal information. Bel
 ![activity 2.1: example of replaced section](./readme_images/2_1_example.png)
 ![activity 2.2: example of replaced section](./readme_images/2_2_example.png)
 
-The repo has been deployed using GitHub pages and can be visited at anusha-shekhar.github.io. Below is a screenshot showing the webpage.
+The repo has been deployed using GitHub pages and can be visited at anusha-shekhar.github.io. Below are screenshots showing the webpage.
 ![activity 2.3: screenshot of webpage](./readme_images/2_3_website.png)
 
 ## Activity 3
-The green theme of the original website has been replaced by a pink theme of my choosing. Below is a screenshot of various parts of the repo where I have made the changes.
+The green theme of the original website has been replaced by a pink theme of my choosing. Below are screenshots of various parts of the repo where I have made the changes.
 ![activity 3.1: example of replaced colour](./readme_images/3_1_color_example.png)
 ![activity 3.2: example of replaced colour](./readme_images/3_2_color_example.png)
 
 Below is a screenshot of the homepage of the deployed website.
 ![activity 3.3: screenshot of pink webpage](./readme_images/3_3_website_pink.png)
+
+## Activity 4
+A new section called "places travelled" has been created and added to the navigation bar on the left. In this section, a google map has been embedded showing all the places I have visited so far. Below is a screenshot from the repo of where I have implemented this.
+![activity 4: screenshot of map code](./readme_images/4_map_code.png)
+
+Below is a screenshot of the Places Travelled Section of the webpage.
